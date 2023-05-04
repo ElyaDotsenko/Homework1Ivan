@@ -1,0 +1,73 @@
+   0 cd /home
+   1 mkdir -p /home animals
+   2 ls
+   3 mkdir -p /home/animals/dogs/cats/fish
+   4 tree
+   5 touch /home/animals/dogs/pluto.txt
+   6 ls
+   7 tree
+   8 touch animals/cats/garfild.txt
+   9 mkdir -p /home/animals/cats
+  10 ls
+  11 tree
+  12 touch animals/cats/garfild.txt
+  13 ls
+  14 tree
+  15 mkdir -p animals/nemo
+  16 tree
+  17 mkdir -p animals/fish
+  18 tree
+  19 mkdir -p planets
+  20 ls
+  21 cd /opt
+  22 touch Mercury.txt Venus.txt Mars.txt Jupiter.txt
+  23 ls
+  24 mv Merkury1.txt /home/planets
+  25 cp Mercury.txt /home/planets
+  26 ls
+  27 tree
+  28 cd /home
+  29 tree
+  30 cd /opt
+  31 cp Mars.txt /home/planets
+  32 cp Venus.txt /home/planets
+  33 cp Jupiter.txt /home/planets
+  34 cd /tmp
+  35 cd /home
+  36 mkdir -p humans
+  37 ls
+  38 cd /tmp
+  39 touch adam.txt
+  40 ls
+  41 cp adam.txt /home/humans
+  42 ls
+  43 cd home
+  44 cd /home
+  45 tree
+  46 cd /tmp
+  47 touch evA.txt
+  48 ls
+  49 mv evA.txt eve.txt /opt
+  50 mv evA.txt eve.txt
+  51 cd /opt
+  52 tree
+  53 mv evA.txt eve.txt
+  54 ls
+  55 mv eve.txt /home/humans
+  56 ls
+  57 cd /home
+  58 tree
+  59 hustory >history.txt
+  60 history
+  61 cd ~#
+  62 cd ~
+  63 history > history.txt
+  64 ls
+  65 Export_history.txt
+  66 cd /home
+  67 history
+  68 history > histiry.txt
+  69 Export_history.txt
+  70 export_history.txt
+  71 export_file history.txt
+  72 history > history.txt
